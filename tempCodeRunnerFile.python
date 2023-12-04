@@ -1,0 +1,12 @@
+import math
+
+
+def solution(area):
+    output = []    
+    while(area):
+        temp = math.sqrt(area)
+        output.append(temp**2)
+        area -= temp**2
+    return output
+    
+solution(12)
