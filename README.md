@@ -13,7 +13,7 @@ This project focuses on developing a machine learning model capable of recognizi
 - Data Processing: The data is then concatenated, processed, and prepared for training.
 - Model Building: A convolutional neural network (CNN) is used for this classification task, leveraging TensorFlow and Keras.
 - Training & Validation: The model is trained and validated with the [EMNIST dataset.](#datasets)
-- Testing: The model is trained with [Handwriting Recognition dataset.](#datasets)
+- Testing: The model is tested with [Handwriting Recognition dataset.](#datasets)
 
 ## Performance Metrics
 - Best validation loss achieved: 0.12173
