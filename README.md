@@ -29,9 +29,9 @@ This project focuses on developing a machine learning model capable of recognizi
 - Correct word predictions: 55.228%
 
 ### Visualization of results
-    ![Alt text](images/image.png)
-    ![Alt text](images/image-1.png)
-    ![Alt text](images/image-2.png)
+![Alt text](images/image.png)
+![Alt text](images/image-1.png)
+![Alt text](images/image-2.png)
 
 ## Potential Improvements
 - The testing dataset contains a lot of images with redundant letters, cursive words, incorrect labels. 
