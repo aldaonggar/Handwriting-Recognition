@@ -34,7 +34,8 @@ This project focuses on developing a machine learning model capable of recognizi
 ![Alt text](images/image-2.png)
 
 ### Confusion Matrices
-![image](https://github.com/aldaonggar/Handwriting-Recognition/assets/101265592/f9808b6b-3619-4259-a962-cfc315c94bf9)
+![image](https://github.com/aldaonggar/Handwriting-Recognition/assets/101265592/ace85c1b-a210-44a2-8a3f-2420881ad916)
+
 ![image](https://github.com/aldaonggar/Handwriting-Recognition/assets/101265592/62ecc899-81ad-4ef7-9b65-73b760c23703)
 
 ## Potential Improvements
