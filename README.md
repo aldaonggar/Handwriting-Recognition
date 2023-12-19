@@ -33,6 +33,10 @@ This project focuses on developing a machine learning model capable of recognizi
 ![Alt text](images/image-1.png)
 ![Alt text](images/image-2.png)
 
+### Confusion Matrices
+![image](https://github.com/aldaonggar/Handwriting-Recognition/assets/101265592/f9808b6b-3619-4259-a962-cfc315c94bf9)
+![image](https://github.com/aldaonggar/Handwriting-Recognition/assets/101265592/62ecc899-81ad-4ef7-9b65-73b760c23703)
+
 ## Potential Improvements
 - The testing dataset contains a lot of images with redundant letters, cursive words, incorrect labels. 
 Therefore, the correct preprocessing should vastly increase the testing accuracy.
